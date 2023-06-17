@@ -13,6 +13,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Episode 2", "Episode 2", "{
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Registers+MOV", "Episode2\Registers+MOV\Registers+MOV.vcxproj", "{A1259A23-9513-4BC9-955C-8460C98A84AF}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Episode 3", "Episode 3", "{95ABA174-1152-401A-9D3E-9D6CDE2B9228}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Directives", "Episode3\Directives\Directives.vcxproj", "{58E5588C-DC09-4951-B8B0-3EF2BABD38F4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +35,10 @@ Global
 		{A1259A23-9513-4BC9-955C-8460C98A84AF}.Debug|x64.Build.0 = Debug|x64
 		{A1259A23-9513-4BC9-955C-8460C98A84AF}.Release|x64.ActiveCfg = Release|x64
 		{A1259A23-9513-4BC9-955C-8460C98A84AF}.Release|x64.Build.0 = Release|x64
+		{58E5588C-DC09-4951-B8B0-3EF2BABD38F4}.Debug|x64.ActiveCfg = Debug|x64
+		{58E5588C-DC09-4951-B8B0-3EF2BABD38F4}.Debug|x64.Build.0 = Debug|x64
+		{58E5588C-DC09-4951-B8B0-3EF2BABD38F4}.Release|x64.ActiveCfg = Release|x64
+		{58E5588C-DC09-4951-B8B0-3EF2BABD38F4}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -39,6 +47,7 @@ Global
 		{B6DFCD0B-A590-489A-BD7D-54EDE27EBCCA} = {61B13938-2A49-4055-9F82-408CA73A43E0}
 		{2428959B-A8CD-4714-925C-449824952972} = {61B13938-2A49-4055-9F82-408CA73A43E0}
 		{A1259A23-9513-4BC9-955C-8460C98A84AF} = {00B8EA82-EE93-4557-A6F6-27E1FF7E9EB7}
+		{58E5588C-DC09-4951-B8B0-3EF2BABD38F4} = {95ABA174-1152-401A-9D3E-9D6CDE2B9228}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {74B06FA8-487D-4545-8B72-13DF56D10686}
