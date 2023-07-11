@@ -25,6 +25,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Flags", "Episode5\Flags\Fla
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Episode 5", "Episode 5", "{5A70F316-4DFE-4502-9A21-51B2BD05D446}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ConditionalJumps", "Episode6\ConditionalJumps\ConditionalJumps.vcxproj", "{4DD40142-837D-4461-BA3F-0A805A2A057A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Episode 6", "Episode 6", "{F3695239-C1C4-487E-A513-9D53EDECD849}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -55,6 +59,10 @@ Global
 		{03695492-74FF-4903-BE0B-6B46CFABA571}.Debug|x64.Build.0 = Debug|x64
 		{03695492-74FF-4903-BE0B-6B46CFABA571}.Release|x64.ActiveCfg = Release|x64
 		{03695492-74FF-4903-BE0B-6B46CFABA571}.Release|x64.Build.0 = Release|x64
+		{4DD40142-837D-4461-BA3F-0A805A2A057A}.Debug|x64.ActiveCfg = Debug|x64
+		{4DD40142-837D-4461-BA3F-0A805A2A057A}.Debug|x64.Build.0 = Debug|x64
+		{4DD40142-837D-4461-BA3F-0A805A2A057A}.Release|x64.ActiveCfg = Release|x64
+		{4DD40142-837D-4461-BA3F-0A805A2A057A}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -66,6 +74,7 @@ Global
 		{58E5588C-DC09-4951-B8B0-3EF2BABD38F4} = {95ABA174-1152-401A-9D3E-9D6CDE2B9228}
 		{49E26C62-F111-4C69-AC6A-784B219B9ADE} = {BDAB1C19-10D8-42C3-B247-7EBF52866D78}
 		{03695492-74FF-4903-BE0B-6B46CFABA571} = {5A70F316-4DFE-4502-9A21-51B2BD05D446}
+		{4DD40142-837D-4461-BA3F-0A805A2A057A} = {F3695239-C1C4-487E-A513-9D53EDECD849}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {74B06FA8-487D-4545-8B72-13DF56D10686}
