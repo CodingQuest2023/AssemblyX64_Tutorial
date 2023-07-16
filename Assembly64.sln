@@ -37,6 +37,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Episode 8", "Episode 8", "{
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DebuggingAssemblyCode", "Episode8\DebuggingAssemblyCode\DebuggingAssemblyCode.vcxproj", "{99AC3A86-A531-4D77-92F9-461B12DC9B9C}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Episode 9", "Episode 9", "{C2B7084E-0A4D-415C-B798-6AF9D358861C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Stack", "Episode9\Stack\Stack.vcxproj", "{9D66960B-9A65-4EBC-A634-54069B572D11}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -79,6 +83,10 @@ Global
 		{99AC3A86-A531-4D77-92F9-461B12DC9B9C}.Debug|x64.Build.0 = Debug|x64
 		{99AC3A86-A531-4D77-92F9-461B12DC9B9C}.Release|x64.ActiveCfg = Release|x64
 		{99AC3A86-A531-4D77-92F9-461B12DC9B9C}.Release|x64.Build.0 = Release|x64
+		{9D66960B-9A65-4EBC-A634-54069B572D11}.Debug|x64.ActiveCfg = Debug|x64
+		{9D66960B-9A65-4EBC-A634-54069B572D11}.Debug|x64.Build.0 = Debug|x64
+		{9D66960B-9A65-4EBC-A634-54069B572D11}.Release|x64.ActiveCfg = Release|x64
+		{9D66960B-9A65-4EBC-A634-54069B572D11}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -93,6 +101,7 @@ Global
 		{4DD40142-837D-4461-BA3F-0A805A2A057A} = {F3695239-C1C4-487E-A513-9D53EDECD849}
 		{B1ED6EA7-DD8F-4F43-B429-4EB53F83041E} = {BAD8B21D-E3A6-4E48-B460-E07CDA086953}
 		{99AC3A86-A531-4D77-92F9-461B12DC9B9C} = {F01AFD1D-F14F-405A-ACAF-5CD165266DC1}
+		{9D66960B-9A65-4EBC-A634-54069B572D11} = {C2B7084E-0A4D-415C-B798-6AF9D358861C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {74B06FA8-487D-4545-8B72-13DF56D10686}
