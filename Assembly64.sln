@@ -45,6 +45,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Episode_10", "Episode_10", 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Printf", "Episode10\Printf\Printf.vcxproj", "{B21A457E-3E5C-4E42-9AFB-538781AD9F39}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Episode_11", "Episode_11", "{65103D72-F115-49D4-BEAD-F0481A7C80E3}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Disassembly", "Episode11\Disassembly\Disassembly.vcxproj", "{E303115F-3605-4683-A43D-57D46D553F27}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -95,6 +99,10 @@ Global
 		{B21A457E-3E5C-4E42-9AFB-538781AD9F39}.Debug|x64.Build.0 = Debug|x64
 		{B21A457E-3E5C-4E42-9AFB-538781AD9F39}.Release|x64.ActiveCfg = Release|x64
 		{B21A457E-3E5C-4E42-9AFB-538781AD9F39}.Release|x64.Build.0 = Release|x64
+		{E303115F-3605-4683-A43D-57D46D553F27}.Debug|x64.ActiveCfg = Debug|x64
+		{E303115F-3605-4683-A43D-57D46D553F27}.Debug|x64.Build.0 = Debug|x64
+		{E303115F-3605-4683-A43D-57D46D553F27}.Release|x64.ActiveCfg = Release|x64
+		{E303115F-3605-4683-A43D-57D46D553F27}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -111,6 +119,7 @@ Global
 		{99AC3A86-A531-4D77-92F9-461B12DC9B9C} = {F01AFD1D-F14F-405A-ACAF-5CD165266DC1}
 		{9D66960B-9A65-4EBC-A634-54069B572D11} = {C2B7084E-0A4D-415C-B798-6AF9D358861C}
 		{B21A457E-3E5C-4E42-9AFB-538781AD9F39} = {FB0B381C-979C-4651-AE85-A2E92A6579CB}
+		{E303115F-3605-4683-A43D-57D46D553F27} = {65103D72-F115-49D4-BEAD-F0481A7C80E3}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {74B06FA8-487D-4545-8B72-13DF56D10686}
