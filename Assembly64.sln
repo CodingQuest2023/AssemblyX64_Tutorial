@@ -49,6 +49,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Episode_11", "Episode_11", 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Disassembly", "Episode11\Disassembly\Disassembly.vcxproj", "{E303115F-3605-4683-A43D-57D46D553F27}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Episode_12", "Episode_12", "{10BB7B6A-C1ED-49E8-8222-2D3943458912}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Scanf", "Episode12\Scanf\Scanf.vcxproj", "{840F8D30-4C17-4596-890B-0CD8281307E4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -103,6 +107,10 @@ Global
 		{E303115F-3605-4683-A43D-57D46D553F27}.Debug|x64.Build.0 = Debug|x64
 		{E303115F-3605-4683-A43D-57D46D553F27}.Release|x64.ActiveCfg = Release|x64
 		{E303115F-3605-4683-A43D-57D46D553F27}.Release|x64.Build.0 = Release|x64
+		{840F8D30-4C17-4596-890B-0CD8281307E4}.Debug|x64.ActiveCfg = Debug|x64
+		{840F8D30-4C17-4596-890B-0CD8281307E4}.Debug|x64.Build.0 = Debug|x64
+		{840F8D30-4C17-4596-890B-0CD8281307E4}.Release|x64.ActiveCfg = Release|x64
+		{840F8D30-4C17-4596-890B-0CD8281307E4}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
