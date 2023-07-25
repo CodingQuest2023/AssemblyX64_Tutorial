@@ -57,6 +57,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Episode_13", "Episode_13", 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BitwiseLogicalInstructions", "Episode13\BitwiseLogicalInstructions\BitwiseLogicalInstructions.vcxproj", "{4F3265E2-67C5-4967-B8FA-1571762A8294}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Episode_14", "Episode_14", "{D354EE7B-7CE9-48C7-B7D8-217592787F83}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NumberGuessingGame", "Episode14\NumberGuessingGame\NumberGuessingGame.vcxproj", "{B3E230C9-A303-4C68-8691-8AB0822925C3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -119,6 +123,10 @@ Global
 		{4F3265E2-67C5-4967-B8FA-1571762A8294}.Debug|x64.Build.0 = Debug|x64
 		{4F3265E2-67C5-4967-B8FA-1571762A8294}.Release|x64.ActiveCfg = Release|x64
 		{4F3265E2-67C5-4967-B8FA-1571762A8294}.Release|x64.Build.0 = Release|x64
+		{B3E230C9-A303-4C68-8691-8AB0822925C3}.Debug|x64.ActiveCfg = Debug|x64
+		{B3E230C9-A303-4C68-8691-8AB0822925C3}.Debug|x64.Build.0 = Debug|x64
+		{B3E230C9-A303-4C68-8691-8AB0822925C3}.Release|x64.ActiveCfg = Release|x64
+		{B3E230C9-A303-4C68-8691-8AB0822925C3}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -138,6 +146,7 @@ Global
 		{E303115F-3605-4683-A43D-57D46D553F27} = {65103D72-F115-49D4-BEAD-F0481A7C80E3}
 		{840F8D30-4C17-4596-890B-0CD8281307E4} = {10BB7B6A-C1ED-49E8-8222-2D3943458912}
 		{4F3265E2-67C5-4967-B8FA-1571762A8294} = {7C5C8E6E-462B-48F4-9D85-F162F59FD5CF}
+		{B3E230C9-A303-4C68-8691-8AB0822925C3} = {D354EE7B-7CE9-48C7-B7D8-217592787F83}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {74B06FA8-487D-4545-8B72-13DF56D10686}
